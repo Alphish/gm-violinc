@@ -9,7 +9,13 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"_Packages","folderPath":"folders/_Packages.yy","name":"_Packages","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Alphish","folderPath":"folders/_Packages/Alphish.yy","name":"Alphish","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Violinc","folderPath":"folders/_Packages/Alphish/Violinc.yy","name":"Violinc","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Receivers","folderPath":"folders/_Packages/Alphish/Violinc/Receivers.yy","name":"Receivers","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Variables","folderPath":"folders/_Packages/Alphish/Violinc/Variables.yy","name":"Variables","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -19,6 +25,8 @@
   "name":"Violinc",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ctor_ViolincReceiver","path":"scripts/ctor_ViolincReceiver/ctor_ViolincReceiver.yy",},},
+    {"id":{"name":"ctor_ViolincVariable","path":"scripts/ctor_ViolincVariable/ctor_ViolincVariable.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
