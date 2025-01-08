@@ -30,6 +30,7 @@
     {"id":{"name":"rm_Test","path":"rooms/rm_Test/rm_Test.yy",},},
     {"id":{"name":"ctor_ViolincPropertyReceiver","path":"scripts/ctor_ViolincPropertyReceiver/ctor_ViolincPropertyReceiver.yy",},},
     {"id":{"name":"ctor_ViolincReceiver","path":"scripts/ctor_ViolincReceiver/ctor_ViolincReceiver.yy",},},
+    {"id":{"name":"ctor_ViolincException","path":"scripts/ctor_ViolincException/ctor_ViolincException.yy",},},
     {"id":{"name":"ctor_ViolincValue","path":"scripts/ctor_ViolincValue/ctor_ViolincValue.yy",},},
     {"id":{"name":"ctor_ViolincVariable","path":"scripts/ctor_ViolincVariable/ctor_ViolincVariable.yy",},},
   ],
