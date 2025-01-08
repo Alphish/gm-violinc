@@ -1,5 +1,2 @@
-value_receiver = undefined;
-if (is_instanceof(value, ViolincVariable)) {
-    value_receiver = new ViolincPropertyReceiver(id, nameof(value));
-    value_receiver.link_to(value);
-}
+violinc_instance_setup();
+violinc_try_bind_property(value, nameof(value));
