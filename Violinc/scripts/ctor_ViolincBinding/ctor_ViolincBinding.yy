@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"ctor_ViolincReceiver",
+  "%Name":"ctor_ViolincBinding",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"ctor_ViolincReceiver",
+  "name":"ctor_ViolincBinding",
   "parent":{
     "name":"Receivers",
     "path":"folders/_Packages/Alphish/Violinc/Receivers.yy",
