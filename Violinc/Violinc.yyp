@@ -33,6 +33,8 @@
     {"id":{"name":"ctor_ViolincPropertyBinding","path":"scripts/ctor_ViolincPropertyBinding/ctor_ViolincPropertyBinding.yy",},},
     {"id":{"name":"ctor_ViolincValue","path":"scripts/ctor_ViolincValue/ctor_ViolincValue.yy",},},
     {"id":{"name":"ctor_ViolincVariable","path":"scripts/ctor_ViolincVariable/ctor_ViolincVariable.yy",},},
+    {"id":{"name":"ctor_ViolincVoidBinding","path":"scripts/ctor_ViolincVoidBinding/ctor_ViolincVoidBinding.yy",},},
+    {"id":{"name":"funcs_Violinc","path":"scripts/funcs_Violinc/funcs_Violinc.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

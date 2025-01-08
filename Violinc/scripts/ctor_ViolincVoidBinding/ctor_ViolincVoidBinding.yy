@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_ViolincVoidBinding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_ViolincVoidBinding",
+  "parent":{
+    "name":"Receivers",
+    "path":"folders/_Packages/Alphish/Violinc/Receivers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
