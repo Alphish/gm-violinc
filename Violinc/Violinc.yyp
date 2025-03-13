@@ -27,6 +27,7 @@
   "name":"Violinc",
   "resources":[
     {"id":{"name":"ctrl_Test","path":"objects/ctrl_Test/ctrl_Test.yy",},},
+    {"id":{"name":"ui_CommandButton","path":"objects/ui_CommandButton/ui_CommandButton.yy",},},
     {"id":{"name":"ui_ValueBar","path":"objects/ui_ValueBar/ui_ValueBar.yy",},},
     {"id":{"name":"ui_ValueText","path":"objects/ui_ValueText/ui_ValueText.yy",},},
     {"id":{"name":"rm_Test","path":"rooms/rm_Test/rm_Test.yy",},},
@@ -41,6 +42,7 @@
     {"id":{"name":"ctor_ViolincVariableUpdateBinding","path":"scripts/ctor_ViolincVariableUpdateBinding/ctor_ViolincVariableUpdateBinding.yy",},},
     {"id":{"name":"ctor_ViolincVoidBinding","path":"scripts/ctor_ViolincVoidBinding/ctor_ViolincVoidBinding.yy",},},
     {"id":{"name":"funcs_Violinc","path":"scripts/funcs_Violinc/funcs_Violinc.yy",},},
+    {"id":{"name":"spr_CommandButton","path":"sprites/spr_CommandButton/spr_CommandButton.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
