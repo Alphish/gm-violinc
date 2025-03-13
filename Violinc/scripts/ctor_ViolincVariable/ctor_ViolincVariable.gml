@@ -1,4 +1,5 @@
 function ViolincVariable() constructor {
+    name = undefined;
     value = undefined;
     bindings = [];
     
@@ -12,11 +13,20 @@ function ViolincVariable() constructor {
         if (value == _value)
             return;
         
-        var _old_value = _value;
+        var _old_value = value;
         update_source(_value, _old_value);
         
         _value = retrieve_value();
         send_value(_value, _old_value);
+    }
+    
+    static set_from_source = function(_value) {
+        if (value == _value)
+            return;
+        
+        var _old_value = value;
+        value = _value;
+        send_value(value, _old_value);
     }
     
     static coerce_value = function(_value) {
@@ -32,12 +42,21 @@ function ViolincVariable() constructor {
     }
     
     static update_value = function() {
-        set_value(retrieve_value());
+        set_from_source(retrieve_value());
     }
     
     static send_value = function(_new, _old) {
         for (var i = 0, _count = array_length(bindings); i < _count; i++) {
             bindings[i].accept(_new, _old);
         }
+    }
+    
+    static with_name = function(_name) {
+        name = _name;
+        return self;
+    }
+    
+    static cleanup = function() {
+        // do nothing by default
     }
 }
