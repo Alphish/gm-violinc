@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_ViolincVariableMapping",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_ViolincVariableMapping",
+  "parent":{
+    "name":"Variables",
+    "path":"folders/_Packages/Alphish/Violinc/Variables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

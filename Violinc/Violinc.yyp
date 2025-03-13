@@ -34,6 +34,8 @@
     {"id":{"name":"ctor_ViolincPropertyBinding","path":"scripts/ctor_ViolincPropertyBinding/ctor_ViolincPropertyBinding.yy",},},
     {"id":{"name":"ctor_ViolincValue","path":"scripts/ctor_ViolincValue/ctor_ViolincValue.yy",},},
     {"id":{"name":"ctor_ViolincVariable","path":"scripts/ctor_ViolincVariable/ctor_ViolincVariable.yy",},},
+    {"id":{"name":"ctor_ViolincVariableMapping","path":"scripts/ctor_ViolincVariableMapping/ctor_ViolincVariableMapping.yy",},},
+    {"id":{"name":"ctor_ViolincVariableUpdateBinding","path":"scripts/ctor_ViolincVariableUpdateBinding/ctor_ViolincVariableUpdateBinding.yy",},},
     {"id":{"name":"ctor_ViolincVoidBinding","path":"scripts/ctor_ViolincVoidBinding/ctor_ViolincVoidBinding.yy",},},
     {"id":{"name":"funcs_Violinc","path":"scripts/funcs_Violinc/funcs_Violinc.yy",},},
   ],
