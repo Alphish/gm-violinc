@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"ctor_ViolincVoidBinding",
   "parent":{
-    "name":"Receivers",
-    "path":"folders/_Packages/Alphish/Violinc/Receivers.yy",
+    "name":"Bindings",
+    "path":"folders/_Packages/Alphish/Violinc/Bindings.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

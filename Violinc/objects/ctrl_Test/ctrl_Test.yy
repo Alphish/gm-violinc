@@ -10,8 +10,8 @@
   "name":"ctrl_Test",
   "overriddenProperties":[],
   "parent":{
-    "name":"Violinc",
-    "path":"Violinc.yyp",
+    "name":"Demo",
+    "path":"folders/Demo.yy",
   },
   "parentObjectId":null,
   "persistent":false,

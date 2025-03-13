@@ -27,8 +27,8 @@
   ],
   "name":"rm_Test",
   "parent":{
-    "name":"Violinc",
-    "path":"Violinc.yyp",
+    "name":"Demo",
+    "path":"folders/Demo.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
