@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_ViolincBasicCommand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_ViolincBasicCommand",
+  "parent":{
+    "name":"Commands",
+    "path":"folders/_Packages/Alphish/Violinc/Commands.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

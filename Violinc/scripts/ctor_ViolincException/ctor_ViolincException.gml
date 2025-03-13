@@ -21,3 +21,10 @@ ViolincException.variable_cannot_write = function(_variable) {
     
     return new ViolincException($"violinc_variable_cannot_write", _message);
 }
+
+ViolincException.command_disabled_execution = function() {
+    return new ViolincException(
+        $"violinc_command_disabled_execution",
+        $"Attempting to execute a disabled command. Make sure to check if the command is enabled before execution."
+        );
+}
