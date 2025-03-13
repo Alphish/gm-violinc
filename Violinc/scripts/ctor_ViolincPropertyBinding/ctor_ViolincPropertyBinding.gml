@@ -1,8 +1,8 @@
-function ViolincPropertyBinding(_instance, _property) : ViolincBinding() constructor {
-    instance = _instance;
+function ViolincPropertyBinding(_owner, _property) : ViolincBinding() constructor {
+    owner = _owner;
     property = _property;
     
     static accept = function(_value) {
-        instance[$ property] = _value;
+        owner[$ property] = _value;
     }
 }

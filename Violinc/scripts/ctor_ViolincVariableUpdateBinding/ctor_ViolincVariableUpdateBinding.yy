@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"ctor_ViolincVoidBinding",
+  "%Name":"ctor_ViolincVariableUpdateBinding",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"ctor_ViolincVoidBinding",
+  "name":"ctor_ViolincVariableUpdateBinding",
   "parent":{
     "name":"Bindings",
     "path":"folders/_Packages/Alphish/Violinc/Bindings.yy",
